@@ -1,6 +1,4 @@
-<div
- style="display: flex; flex-direction: column; align-items: center;"
->
+<div align="center">
   <img
     style="width: 8rem; border-radius: 50%"
     src="assets/icon.png"
